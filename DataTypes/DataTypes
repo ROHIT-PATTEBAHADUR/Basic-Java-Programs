@@ -1,1 +1,15 @@
+public class DataTypes {
+  public static void main(String[] args) {
+    int num = 5;
+    float floatnum = 5.99f;
+    char letter = 'D';
+    boolean a = true;
+    String b = "Hello";   
+    System.out.println(num);
+    System.out.println(floatnum);
+    System.out.println(letter);
+    System.out.println(a);
+    System.out.println(b);
+  }
+}
 
